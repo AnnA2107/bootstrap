@@ -10,3 +10,7 @@
 	background-color: white;
 	color: green;
 }
+.container-fluid{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
